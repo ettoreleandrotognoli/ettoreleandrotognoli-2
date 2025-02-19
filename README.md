@@ -8,3 +8,12 @@ Sou formado em...
 def test():
     print('Hello World')
 ```
+
+
+```plantuml
+@startuml
+
+class Test
+
+@enduml
+```
